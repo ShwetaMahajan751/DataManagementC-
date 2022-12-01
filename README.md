@@ -1,17 +1,17 @@
 
-<h1 align="center">  DataManagement</h1>
-<h3 align="center">Small Project in c++ and Java</h3>
+<h1 align="center"> Data Management</h1>
+<h3 align="center">Small Project Of managing data of student and bank transitions</h3>
 
 <image align="right" alt="Coding" width="400" src="https://bsscommerce.com/blog/wp-content/uploads/2020/08/recheck-customer-data-management.gif">
   
-- 🌱 It is a small project using c++**
+- 🌱 It is a small project using c++ and java
 
 - 👨‍💻 Where You can take data from student and Manage it.
 
-- 💬 Ask me about **Problem Solving**
+- 💬 And another is bank management 
 
-- 📫 How to reach me **shwetamahajan751@gmail.com**
+- 📫Wher it take data from user and shows the transition records.
+  
+  <br> <br> <br>  <br>
 
-- ⚡ Fun fact **I think I am coder🥲**
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Code with me:</h1>
